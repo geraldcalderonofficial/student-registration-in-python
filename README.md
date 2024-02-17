@@ -1,2 +1,2 @@
-# Python - Student Registration
-Student Registration using sum method, enumerate method, advanced dictionaries usage. 
+# Python - OOP Student Registration
+Student Registration using class, sum method, enumerate method, advanced dictionaries usage. 
